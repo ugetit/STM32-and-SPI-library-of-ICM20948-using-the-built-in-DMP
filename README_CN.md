@@ -1,6 +1,6 @@
 # ICM20948 DMP Library for STM32
 
-[English](README_EN.md) | 中文
+[English](README.md) | 中文
 
 一个用于STM32的ICM20948九轴传感器DMP（Digital Motion Processor）库，支持通过SPI接口获取高精度的姿态角度数据（Roll、Pitch、Yaw）。
 
