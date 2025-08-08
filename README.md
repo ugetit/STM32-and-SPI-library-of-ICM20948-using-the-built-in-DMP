@@ -1,6 +1,6 @@
 # ICM20948 DMP Library for STM32
 
-English | [中文](README.md)
+English | [中文](README_CN.md)
 
 A high-precision ICM20948 9-axis sensor DMP (Digital Motion Processor) library for STM32, providing accurate Roll, Pitch, and Yaw angle data via SPI interface.
 
